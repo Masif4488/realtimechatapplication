@@ -6,3 +6,13 @@ body {
 a {
   color: #00B7FF;
 }
+.row h2 {
+    text-align: center;
+    background: #f5f5;
+}
+.well {
+    border: 5px solid blue;
+}
+button.btn.btn-success.pull-right {
+    width: 100%;
+}
